@@ -115,7 +115,7 @@ class ProductController extends Controller
             'status' => true,
             'message' => 'Product updated successfully',
             'data' => $product
-        ],201);
+        ],200);
     }
 
     /**

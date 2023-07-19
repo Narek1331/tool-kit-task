@@ -6,3 +6,5 @@ php artisan jwt:secret
 
 admin user - email admin@gmail.com, pass 123456
 test user - email test@gmail.com, pass 123456
+
+test commands - php artisan test, ./vendor/bin/phpunit
